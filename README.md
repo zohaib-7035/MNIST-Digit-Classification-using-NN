@@ -111,7 +111,4 @@ Contributions welcome! Fork it, improve it, and don’t forget to ⭐ the repo i
 
 ```
 
----
 
-Let me know if you'd like the markdown file in `.md` format or if you're adding this to a GitHub repository so I can tailor it better (e.g., adding badges, project links, etc.).
-```
